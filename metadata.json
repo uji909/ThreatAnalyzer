@@ -1,0 +1,6 @@
+{
+  "name": "Threat Analyzer",
+  "description": "A full-suite security threat intelligence and vulnerability analysis sandbox incorporating AI-powered code analysis, dependency audits, URL scanning, and comprehensive report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
